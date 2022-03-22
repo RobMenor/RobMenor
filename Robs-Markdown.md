@@ -1,0 +1,1 @@
+i've learned how to make a markdown file as well as how to upload it to the remote repository. The most difficult thing for me to learn was the whole process. I,ve used perforce in college and that was also difficult. 
